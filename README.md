@@ -1,1 +1,3 @@
-# mini_projet
+[[Données manipulées]]
+[[Erreurs a gerer]]
+[[Fonctionnalités par bloc]]
