@@ -47,7 +47,7 @@ L’application doit sauvegarder et charger :
 - **produits.json** ou **produits.csv**
 - **ventes.json** ou **ventes.csv**
 
-👉 Ces fichiers contiennent toutes les données nécessaires pour restaurer l’état de l’application au démarrage.
+Ces fichiers contiennent toutes les données nécessaires pour restaurer l’état de l’application au démarrage.
 
 ---
 

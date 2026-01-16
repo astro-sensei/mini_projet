@@ -1,3 +1,3 @@
-[[Données manipulées]]
-[[Erreurs a gerer]]
-[[Fonctionnalités par bloc]]
+- [[Données manipulées]]
+- [[Erreurs a gerer]]
+- [[Fonctionnalités par bloc]]
