@@ -1,4 +1,4 @@
-# Application de Gestion des Stocks
+# OpenInventory - Application de Gestion des Stocks
 
 ## Présentation du projet
 Cette application Python permet à une petite entreprise de gérer l’ensemble de son inventaire, ses ventes, ses fournisseurs, ses alertes de stock faible et l’import/export de données au format Excel.
